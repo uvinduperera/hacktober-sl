@@ -35,7 +35,7 @@ body {
 # site-header
 ------------------------------------------------------------*/
 .home-page {
-    background: url(images/middle-cover.jpg) no-repeat;
+    background: url(images/image-3.jpg) no-repeat;
 }
 
 .site-header {
@@ -232,7 +232,7 @@ body {
 -----------------------------------------------------------*/
 .hero-content {
     padding: 220px 0;
-    background: url("images/cover.jpg") no-repeat;
+    background: url("images/image-3.jpg") no-repeat;
     background-size: cover;
 }
 
@@ -320,7 +320,7 @@ body {
 }
 
 .hero-content .entry-footer a:hover, .hero-content .entry-footer .current {
-    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    background: -webkit-linear-gradient(#00dddd, #25dddd);
     color: hsl(0, 0%, 0%);
 }
 
